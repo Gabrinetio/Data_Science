@@ -3,6 +3,10 @@ Olá! Bem-vindo ao meu portfólio de projetos de análise de dados.  Aqui eu dem
 
 # Projeto de Análise de Vendas | E-commerce Olist
 
+## 🔗 Link para o Projeto
+
+* **[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PLXn3dQD0mLLD22KxQnHfyDIQ_wSG5pG?usp=sharing).**
+
 ## 🎯 Objetivo
 
 Realizar uma análise exploratória de dados (EDA) sobre o dataset público da Olist, disponível no Kaggle, para extrair insights estratégicos sobre as operações de vendas entre 2016 e 2018. O projeto busca responder a três perguntas de negócio fundamentais:
@@ -22,10 +26,6 @@ Realizar uma análise exploratória de dados (EDA) sobre o dataset público da O
 * **Concentração no Sudeste:** A análise geográfica revelou que mais de 40% dos clientes estão concentrados no estado de São Paulo, evidenciando a importância da região Sudeste para o negócio.
 * **Impacto da Black Friday:** Foi identificada uma clara tendência de crescimento nas vendas ao longo do período, com um pico significativo em novembro de 2017, confirmando a Black Friday como o evento comercial mais importante para a empresa.
 * **Domínio de "Casa e Bem-Estar":** A categoria "cama_mesa_banho" lidera as vendas com grande margem, seguida por "beleza_saude" e "esporte_lazer", caracterizando a Olist como um marketplace com forte perfil em produtos para o lar e bem-estar pessoal.
-
-## 🔗 Link para o Projeto
-
-* **[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PLXn3dQD0mLLD22KxQnHfyDIQ_wSG5pG?usp=sharing).**
 
 # 📊 Projeto de Análise de Teste A/B
 
