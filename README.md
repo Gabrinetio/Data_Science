@@ -5,7 +5,7 @@ Olá! Bem-vindo ao meu portfólio de projetos de análise de dados.  Aqui eu dem
 
 ## 🔗 Link para o Projeto
 
-* **[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PLXn3dQD0mLLD22KxQnHfyDIQ_wSG5pG?usp=sharing).**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PLXn3dQD0mLLD22KxQnHfyDIQ_wSG5pG?usp=sharing)
 
 ## 🎯 Objetivo
 
