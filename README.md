@@ -25,21 +25,7 @@ Realizar uma análise exploratória de dados (EDA) sobre o dataset público da O
 
 ## 🔗 Link para o Projeto
 
-* **[Clique aqui para ver o notebook completo com a análise.](https://colab.research.google.com/drive/1PLXn3dQD0mLLD22KxQnHfyDIQ_wSG5pG?usp=sharing)**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* **[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PLXn3dQD0mLLD22KxQnHfyDIQ_wSG5pG?usp=sharing).**
 
 # 📊 Projeto de Análise de Teste A/B
 
