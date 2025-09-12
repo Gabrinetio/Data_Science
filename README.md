@@ -97,6 +97,46 @@ O resultado final é um dashboard limpo e interativo que resume todas as descobe
 
 <img width="1105" height="845" alt="Captura de tela de 2025-09-12 10-36-07" src="https://github.com/user-attachments/assets/663409d8-0226-42d6-8994-d3fe72f770a3" />
 
+# 📊 Análise de Fatores Salariais para Profissionais de Dados no Brasil
+
+➡️ **[Acesse o Notebook Interativo Completo no Kaggle](https://www.kaggle.com/code/gabrielsantanagti/an-lise-de-fatores-salariais)**
+
+## Descrição do Projeto
+
+Este projeto realiza uma análise exploratória de dados da pesquisa "State of Data" para identificar os principais fatores que influenciam a remuneração de Analistas e Cientistas de Dados no Brasil. O objetivo é fornecer insights valiosos sobre o mercado de trabalho de dados, entendendo como características demográficas (experiência, educação) e técnicas (conhecimento em Python, Cloud, etc.) se correlacionam com as diferentes faixas salariais.
+
+## A Jornada Analítica: Uma Adaptação Guiada pelos Dados
+
+Um dos principais diferenciais deste projeto foi a capacidade de adaptar o objetivo inicial com base nas evidências encontradas nos dados. A análise, que começou com a intenção de prever a rotatividade de funcionários, pivotou estrategicamente para um estudo sobre os fatores determinantes para o salário, garantindo que os insights finais fossem robustos, precisos e 100% suportados pelo dataset disponível. Este processo está totalmente documentado no notebook.
+
+
+## Ferramentas e Tecnologias Utilizadas
+
+* **Linguagem de Programação:** R
+* **Principais Pacotes:** Tidyverse (dplyr, ggplot2), knitr.
+* **Ambiente de Análise:** Kaggle Notebook Editor
+* **Versionamento:** Git & GitHub
+
+## Principais Insights e Descobertas
+
+A análise visual dos dados revelou uma série de fatores que impactam significativamente a remuneração dos profissionais de dados no Brasil:
+
+1.  **Experiência é Soberana:** Há uma correlação positiva e muito forte entre o tempo de experiência na área e a progressão para faixas salariais mais altas.
+2.  **Educação Avançada Gera Retorno:** Profissionais com Pós-graduação, Mestrado ou Doutorado apresentam uma concentração significativamente maior nas faixas salariais mais altas.
+3.  **Python como Diferencial:** O domínio da linguagem é um claro diferencial para atingir os maiores salários do mercado.
+4.  **O "Prêmio Cloud" é Real:** Profissionais com competências em plataformas de nuvem (AWS, Azure ou GCP) são muito mais prevalentes nas faixas salariais mais altas, indicando um "prêmio" do mercado por essa habilidade.
+
+## Análise Completa e Código-Fonte
+
+Toda a análise, desde o carregamento dos dados até a geração dos gráficos e perfis, foi desenvolvida no **Kaggle Notebook Editor**. O notebook interativo, com todo o código-fonte em R e as conclusões detalhadas, está publicamente disponível no link abaixo:
+
+### ➡️ **[https://www.kaggle.com/code/gabrielsantanagti/an-lise-de-fatores-salariais](https://www.kaggle.com/code/gabrielsantanagti/an-lise-de-fatores-salariais)**
+
+
+
+
+
+
 
 
 
