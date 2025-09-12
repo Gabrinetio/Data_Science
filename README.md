@@ -59,3 +59,46 @@ O p-valor resultante do teste foi significativamente menor que o nível de signi
 
 ## 🚀 Como Executar o Projeto
 Para visualizar e executar a análise completa, clique no botão "Open in Colab" no topo deste arquivo.
+
+🚀 Projeto: Análise de Sentimentos de Reviews de Apps
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ftEpoLryasXDFMqeTiIdmy19mVpNHhRa?usp=sharing)
+
+✨ Ver Dashboard Interativo (Looker Studio) <- https://lookerstudio.google.com/reporting/3f697291-30a4-4d8f-839f-ff85caa99df9
+
+📖 Descrição
+Este projeto realiza uma análise de sentimentos de ponta a ponta em um dataset público com mais de 35.000 reviews de aplicativos da Google Play Store. O objetivo é transformar milhares de comentários de texto não estruturado em insights visuais e acionáveis, culminando em um dashboard interativo que poderia ser usado por equipes de produto para entender a percepção do usuário.
+
+🛠️ Ferramentas e Tecnologias
+⚙️ Fluxo do Projeto
+O projeto foi estruturado em um pipeline de dados claro e automatizado:
+
+Coleta e Limpeza dos Dados: Carregamento dos datasets (apps.csv e user_reviews.csv), limpeza de dados corrompidos e nulos, e junção das duas fontes.
+
+Pré-processamento de Texto (NLP): Aplicação de técnicas de Processamento de Linguagem Natural para padronizar os reviews, incluindo conversão para minúsculas, remoção de pontuação e de stopwords.
+
+Análise Exploratória de Dados (AED): Análise de frequência de palavras (unigramas) e pares de palavras (bigramas) para identificar os temas mais discutidos pelos usuários, separando-os por sentimento (Positivo vs. Negativo).
+
+Engenharia de Dados e Automação: Construção de um pipeline automatizado onde o script Python no Google Colab processa e agrega os dados de análise e os envia diretamente para uma Planilha Google através da API, servindo como uma fonte de dados "viva" para o dashboard.
+
+Visualização de Dados: Desenvolvimento de um dashboard interativo no Looker Studio, com um layout estratégico para contar a história dos dados, desde uma visão geral até os insights mais detalhados.
+
+💡 Principais Insights
+A análise revelou padrões claros no feedback dos usuários:
+
+Pontos Fortes (Reviews Positivos): Os elogios mais comuns estão diretamente relacionados à experiência de uso e ao propósito principal dos apps, com termos como "love game", "great app" e "easy use" se destacando.
+
+Pontos Fracos (Reviews Negativos): As reclamações se concentram majoritariamente em problemas de monetização e performance. "Many ads" (muitos anúncios) foi o tema negativo mais recorrente, seguido de bugs e pedidos de correção ("please fix").
+
+Temas Controversos: Palavras como "update" aparecem em ambos os contextos, e o gráfico de comparação de sentimentos mostra o balanço entre usuários que amaram e odiaram as novas atualizações.
+
+🖥️ Dashboard Final
+O resultado final é um dashboard limpo e interativo que resume todas as descobertas da análise.
+
+<img width="1105" height="845" alt="Captura de tela de 2025-09-12 10-36-07" src="https://github.com/user-attachments/assets/663409d8-0226-42d6-8994-d3fe72f770a3" />
+
+
+
+
+
+
