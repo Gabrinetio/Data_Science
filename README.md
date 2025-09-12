@@ -64,8 +64,6 @@ Para visualizar e executar a análise completa, clique no botão "Open in Colab"
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ftEpoLryasXDFMqeTiIdmy19mVpNHhRa?usp=sharing)
 
-✨ Ver Dashboard Interativo (Looker Studio) <- https://lookerstudio.google.com/reporting/3f697291-30a4-4d8f-839f-ff85caa99df9
-
 📖 Descrição
 Este projeto realiza uma análise de sentimentos de ponta a ponta em um dataset público com mais de 35.000 reviews de aplicativos da Google Play Store. O objetivo é transformar milhares de comentários de texto não estruturado em insights visuais e acionáveis, culminando em um dashboard interativo que poderia ser usado por equipes de produto para entender a percepção do usuário.
 
@@ -94,6 +92,8 @@ Temas Controversos: Palavras como "update" aparecem em ambos os contextos, e o g
 
 🖥️ Dashboard Final
 O resultado final é um dashboard limpo e interativo que resume todas as descobertas da análise.
+
+✨ Ver Dashboard Interativo (Looker Studio) <- https://lookerstudio.google.com/reporting/3f697291-30a4-4d8f-839f-ff85caa99df9
 
 <img width="1105" height="845" alt="Captura de tela de 2025-09-12 10-36-07" src="https://github.com/user-attachments/assets/663409d8-0226-42d6-8994-d3fe72f770a3" />
 
