@@ -60,7 +60,7 @@ O p-valor resultante do teste foi significativamente menor que o nível de signi
 ## 🚀 Como Executar o Projeto
 Para visualizar e executar a análise completa, clique no botão "Open in Colab" no topo deste arquivo.
 
-🚀 Projeto: Análise de Sentimentos de Reviews de Apps
+# 📊 Projeto Análise de Sentimentos de Reviews de Apps
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ftEpoLryasXDFMqeTiIdmy19mVpNHhRa?usp=sharing)
 
